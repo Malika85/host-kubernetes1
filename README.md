@@ -1,2 +1,2 @@
-# host-kubernetes1
-YouTube channel
+# host-kubernetes
+YouTube channel 
